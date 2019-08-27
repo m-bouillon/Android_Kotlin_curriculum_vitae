@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         tv_fullname.text = "BOUILLON Maxime"
         tv_mail.text = "maxime-bouillon@outlook.com"
-        tv_phone.text = "06 20 34 30 75"
+        tv_phone.text = "06 --- Phone number"
         tv_title.text = "Mobile Developper"
         tv_website.text = "https://github.com/m-bouillon/"
         tv_location.text = "Aix-en-Provence - Perpignan / France"
